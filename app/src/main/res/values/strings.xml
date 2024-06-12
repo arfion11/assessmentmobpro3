@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">Assessmentmobpro3</string>
+    <string name="app_name">LIST LAPTOP 2.0</string>
+    <string name="tutup">Tutup</string>
+    <string name="logout">Logout</string>
+    <string name="profil">Profil</string>
+    <string name="simpan">Simpan</string>
+    <string name="batal">Batal</string>
+    <string name="nama_laptop">Nama Laptop</string>
+    <string name="brand">Brand</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="pesan_hapus">Hapus Laptop Ini Dari List?</string>
+    <string name="delete">Hapus</string>
+    <string name="gambar">Gambar</string>
+    <string name="try_again">Coba Lagi</string>
+    <string name="error">Maaf anda tidak ada internet</string>
+    <string name="tambah_laptop">Tambah Laptop</string>
 </resources>
